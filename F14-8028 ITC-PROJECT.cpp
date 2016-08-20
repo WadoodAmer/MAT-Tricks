@@ -1,6 +1,6 @@
 #include<iostream>
 #include<iomanip>
-#include"F14-8028 ITC-PROJECT.h"
+#include"MAT-Tricks ITC-PROJECT.h"
 #include<Windows.h>
 using namespace std;
 void main()
