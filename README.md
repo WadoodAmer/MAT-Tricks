@@ -9,11 +9,11 @@ MAT-Tricks is a Console Base matrix calculator & analyzer. Given a 2D-matrix of 
 
 The idea of this project was drived from concepts of Linear Algebra. As many engineering and computer science students study linear algebra course in their degree program. So, this can prove to be a very helpful tool for the students, teachers as well as bussiness analysist.
 
-##Usage
+## Usage
 
 The Student solve questions based on their learnings of linear algebra concepts. This project can prove to be very helpful tool to cross check their calculations. Moreover, teachers can use this tool to check assignments and check assignments and design course effectively. Bussiness identities can also use it to calculate the system of linear equation they come across during bussiness analysis.
 
-##Features
+## Features
 
 MAT-Tricks mainly provides the following features.
 
@@ -27,7 +27,7 @@ MAT-Tricks mainly provides the following features.
 
 6) Do analysis of the matrix.
 
-##How To RUN
+## How To RUN
 
 Step 1: Simply download the following files:
 
@@ -41,6 +41,6 @@ Step 3: Add downloaded files to the project.
 
 Step 4: Compile and RUN the project.
 
-##License
+## License
 
 The Project is not under any license policy. However, it is recommended that the code is used only for study perposes or personal use. It is not intended to be commercialized in any sense. Also, do not plegderize the code for submitting acedemically in any institues.
