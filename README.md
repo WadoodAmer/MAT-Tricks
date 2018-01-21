@@ -1,4 +1,5 @@
 # MAT-Tricks
+
 This repository hosts "MAT-Tricks-The Matrix Calculator". It was my 1st semester project for CS-101 course. It is written in C++ Language.
 ## Synopsis
 
@@ -10,7 +11,7 @@ The idea of this project was drived from concepts of Linear Algebra. As many eng
 
 ##Usage
 
-The Student solve questions based on their learnings of linear algebra concepts. This project can prove to be very helpful tool to cross check their calculations. Moreover, teachers can use this tool to check assignments and check assignments and design course effectively. Bussiness identities can also use it to calculate the sytem of linear equation they come across during bussiness analysis.
+The Student solve questions based on their learnings of linear algebra concepts. This project can prove to be very helpful tool to cross check their calculations. Moreover, teachers can use this tool to check assignments and check assignments and design course effectively. Bussiness identities can also use it to calculate the system of linear equation they come across during bussiness analysis.
 
 ##Features
 
